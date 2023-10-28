@@ -60,7 +60,6 @@ const config = {
                         position: 'left',
                         label: 'Guide',
                     },
-                    { to: '/blog', label: 'Blog', position: 'left' },
                     {
                         href: 'https://github.com/shelepuginivan/irasshaimase-to-politech',
                         label: 'GitHub',
@@ -83,10 +82,6 @@ const config = {
                     {
                         title: 'More',
                         items: [
-                            {
-                                label: 'Blog',
-                                to: '/blog',
-                            },
                             {
                                 label: 'GitHub',
                                 href: 'https://github.com/shelepuginivan/irasshaimase-to-politech',
