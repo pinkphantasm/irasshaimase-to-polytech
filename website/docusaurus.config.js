@@ -98,7 +98,7 @@ const config = {
                             },
                             {
                                 label: 'Installation',
-                                to: '/docs/category/installation',
+                                to: '/docs/installation',
                             },
                         ],
                     },
