@@ -1,6 +1,7 @@
 import React from 'react'
 import clsx from 'clsx'
 import Link from '@docusaurus/Link'
+import Translate from '@docusaurus/Translate'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import Layout from '@theme/Layout'
 
@@ -18,19 +19,19 @@ function HomepageHeader() {
                         className="button button--secondary button--lg"
                         to="/docs/category/installation"
                     >
-                        ⚙️ Installation
+                        <Translate>⚙️ Installation</Translate>
                     </Link>
                     <Link
                         className="button button--secondary button--lg"
                         to="/docs/plot"
                     >
-                        📕 Plot
+                        <Translate>📕 Plot</Translate>
                     </Link>
                     <Link
                         className="button button--secondary button--lg"
                         to="/docs/intro"
                     >
-                        ⭐ About
+                        <Translate>⭐ About</Translate>
                     </Link>
                 </div>
             </div>

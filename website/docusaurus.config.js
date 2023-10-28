@@ -21,7 +21,16 @@ const config = {
 
     i18n: {
         defaultLocale: 'en',
-        locales: ['en'],
+        locales: ['en', 'ru'],
+        localeConfigs: {
+            en: {
+                label: 'English'
+            },
+            ru: {
+                htmlLang: 'ru',
+                label: 'Русский'
+            }
+        }
     },
 
     presets: [
@@ -59,6 +68,10 @@ const config = {
                         sidebarId: 'tutorialSidebar',
                         position: 'left',
                         label: 'Guide',
+                    },
+                    {
+                        type: 'localeDropdown',
+                        position: 'right',
                     },
                     {
                         href: 'https://github.com/shelepuginivan/irasshaimase-to-politech',
