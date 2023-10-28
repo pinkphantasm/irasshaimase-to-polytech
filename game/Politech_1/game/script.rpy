@@ -1,9 +1,9 @@
 # Вы можете расположить сценарий своей игры в этом файле.
 
 # Определение персонажей игры.
-define sugaki = Character('Когу Сугаки', color="#617c9b")     # Физико-механмческий институт
-define saiba = Character('Когу Саиба', color="#ab9ddd")       # Институт комьютерных наук и кибербезопастности
-define endgy = Character('Когу Энджи', color="#60ad9a")       # Инженерно-строительный институт
+define sugaki = Character('Сугаки', color="#617c9b")     # Физико-механмческий институт
+define saiba = Character('Саиба', color="#ab9ddd")       # Институт комьютерных наук и кибербезопастности
+define endgy = Character('Энджи', color="#60ad9a")       # Инженерно-строительный институт
 define torute = Character('Когу Торутэ', color="#1e970e")     # Декан Политеха
 define narrator = Character(what_italic=True)
  
