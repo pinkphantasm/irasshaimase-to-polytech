@@ -87,8 +87,12 @@ const config = {
                         title: 'Guide',
                         items: [
                             {
-                                label: 'Guide',
+                                label: 'About',
                                 to: '/docs/intro',
+                            },
+                            {
+                                label: 'Installation',
+                                to: '/docs/category/installation',
                             },
                         ],
                     },
