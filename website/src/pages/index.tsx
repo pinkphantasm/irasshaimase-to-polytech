@@ -25,7 +25,7 @@ function HomepageHeader() {
                             'button button--secondary button--lg',
                             styles.button,
                         )}
-                        to="/docs/category/installation"
+                        to="/docs/installation"
                     >
                         <Translate>⚙️ Installation</Translate>
                     </Link>
