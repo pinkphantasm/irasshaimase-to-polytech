@@ -18,9 +18,9 @@ image bg road = "road.png"
 
 label start:
 
-    scene bg room
-
-    show eileen happy
+    scene bg road
+    show torute happy
+    with Dissolve(.5)
 
     torute "Студент, назови своё имя!"
 
