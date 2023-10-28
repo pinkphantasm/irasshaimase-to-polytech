@@ -6,7 +6,8 @@ define saiba = Character('Саиба', color="#ab9ddd")       # Институт
 define endgy = Character('Энджи', color="#60ad9a")       # Инженерно-строительный институт
 define torute = Character('Когу Торутэ', color="#1e970e")     # Декан Политеха
 define narrator = Character(what_italic=True)
- 
+
+image bg road = "road.png"
 
 # Вместо использования оператора image можете просто
 # складывать все ваши файлы изображений в папку images.
