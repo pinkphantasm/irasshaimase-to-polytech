@@ -24,13 +24,13 @@ const config = {
         locales: ['en', 'ru'],
         localeConfigs: {
             en: {
-                label: 'English'
+                label: 'English',
             },
             ru: {
                 htmlLang: 'ru',
-                label: 'Русский'
-            }
-        }
+                label: 'Русский',
+            },
+        },
     },
 
     presets: [

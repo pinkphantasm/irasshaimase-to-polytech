@@ -1,18 +1,18 @@
 {
-  "title": {
-    "message": "Irasshaimase to Politech",
-    "description": "The title in the navbar"
-  },
-  "logo.alt": {
-    "message": "Irasshaimase to Politech",
-    "description": "The alt text of navbar logo"
-  },
-  "item.label.Guide": {
-    "message": "Гайд",
-    "description": "Navbar item with label Guide"
-  },
-  "item.label.GitHub": {
-    "message": "GitHub",
-    "description": "Navbar item with label GitHub"
-  }
+    "title": {
+        "message": "Irasshaimase to Politech",
+        "description": "The title in the navbar"
+    },
+    "logo.alt": {
+        "message": "Irasshaimase to Politech",
+        "description": "The alt text of navbar logo"
+    },
+    "item.label.Guide": {
+        "message": "Гайд",
+        "description": "Navbar item with label Guide"
+    },
+    "item.label.GitHub": {
+        "message": "GitHub",
+        "description": "Navbar item with label GitHub"
+    }
 }
