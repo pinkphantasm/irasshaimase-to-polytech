@@ -282,5 +282,17 @@
     "theme.common.editThisPage": {
         "message": "Отредактировать эту страницу",
         "description": "The link label to edit the current page"
+    },
+    "Get to know the wonderful world of Politech!": {
+        "message": "Познакомьтесь с удивительным миром Политеха!"
+    },
+    "Learn about different directions of the university in a playful way!": {
+        "message": "Узнайте о различных направлениях университета в игровой форме!"
+    },
+    "Explore beautiful locations!": {
+        "message": "Изучай красивые локации!"
+    },
+    "Feel yourself as a first year student eager for new experiences!": {
+        "message": "Почувствуй себя в роли студента первого курса, жаждущего получить новые ощущения!"
     }
 }
