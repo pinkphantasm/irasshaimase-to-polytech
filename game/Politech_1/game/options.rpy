@@ -62,7 +62,7 @@ define config.has_voice = True
 ## проигрываться в главном меню. Этот файл продолжит проигрываться во время
 ## игры, если не будет остановлен, или не начнёт проигрываться другой аудиофайл.
 
-# define config.main_menu_music = "main-menu-theme.ogg"
+define config.main_menu_music = "main-menu-theme.ogg"
 
 
 ## Переходы ####################################################################
@@ -111,7 +111,7 @@ define config.window = "auto"
 
 ## Переходы, используемые при показе и скрытии диалогового окна
 
-define config.window_show_transition = Dissolve(.2)
+define config.window_show_transition = Dissolve(.5)
 define config.window_hide_transition = Dissolve(.2)
 
 
