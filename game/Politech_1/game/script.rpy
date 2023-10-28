@@ -1,13 +1,24 @@
 # Вы можете расположить сценарий своей игры в этом файле.
 
 # Определение персонажей игры.
-define sugaki = Character('Сугаки', color="#617c9b")     # Физико-механмческий институт
-define saiba = Character('Саиба', color="#ab9ddd")       # Институт комьютерных наук и кибербезопастности
-define endgy = Character('Энджи', color="#60ad9a")       # Инженерно-строительный институт
-define torute = Character('Когу Торутэ', color="#1e970e")     # Декан Политеха
+define sugaki = Character('Сугаки', color='#617c9b', image='sugaki')          # Физико-механический институт
+define saiba = Character('Саиба', color='#ab9ddd', image='saiba')             # Институт комьютерных наук и кибербезопастности
+define endgy = Character('Энджи', color='#60ad9a', image='endgy')             # Инженерно-строительный институт
+define torute = Character('Когу Торутэ', color='#1e970e', image='torute')     # Декан Политеха
+define gg = Character('[gg_name]', color='#d0d1f0')
 define narrator = Character(what_italic=True)
 
-image bg road = "road.png"
+image bg black = 'blackscreen.png'
+image bg road = 'road.png'
+
+image torute normal = 'torute_normal.png'
+
+image sugaki normal = 'sugaki_normal.png'
+
+image saiba normal = 'saiba_normal.png'
+
+image endgy normal = 'endgy_normal.png'
+
 
 # Вместо использования оператора image можете просто
 # складывать все ваши файлы изображений в папку images.
