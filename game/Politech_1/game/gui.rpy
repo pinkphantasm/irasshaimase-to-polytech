@@ -26,7 +26,7 @@ define config.check_conflicting_properties = True
 ## Цвета текста в интерфейсе.
 
 ## Акцентный цвет используется в заголовках и подчёркнутых текстах.
-define gui.accent_color = '#66cc00'
+define gui.accent_color = '#6a9440'
 
 ## Цвет, используемый в текстовой кнопке, когда она не выбрана и не наведена.
 define gui.idle_color = '#888888'
@@ -68,16 +68,16 @@ define gui.name_text_font = "DejaVuSans.ttf"
 define gui.interface_text_font = "DejaVuSans.ttf"
 
 ## Размер нормального текста диалога.
-define gui.text_size = 33
+define gui.text_size = 28
 
 ## Размер имён персонажей.
-define gui.name_text_size = 45
+define gui.name_text_size = 40
 
 ## Размер текста в пользовательском интерфейсе.
-define gui.interface_text_size = 33
+define gui.interface_text_size = 30
 
 ## Размер заголовков в пользовательском интерфейсе.
-define gui.label_text_size = 36
+define gui.label_text_size = 34
 
 ## Размер текста на экране уведомлений.
 define gui.notify_text_size = 24
@@ -98,7 +98,7 @@ define gui.game_menu_background = "gui/game_menu.png"
 ## Эти переменные контролируют, как диалог появляется на отдельной строчке.
 
 ## Высота текстового окна, содержащего диалог.
-define gui.textbox_height = 278
+define gui.textbox_height = 270
 
 ## Местоположение текстового окна по вертикали экрана. 0.0 — верх, 0.5 — центр и
 ## 1.0 — низ.
@@ -108,7 +108,7 @@ define gui.textbox_yalign = 1.0
 ## Местоположение имени говорящего персонажа по отношению к текстовому окну.
 ## Это могут быть целые значения в пикселях слева и сверху от начала окна или
 ## процентное отношение, например, 0.5 для центрирования.
-define gui.name_xpos = 360
+define gui.name_xpos = 260
 define gui.name_ypos = 0
 
 ## Горизонтальное выравнивание имени персонажа. Это может быть 0.0 для
@@ -133,7 +133,7 @@ define gui.namebox_tile = False
 ## Размещение диалога по отношению к текстовому окну. Это могут быть целые
 ## значения в пикселях слева и сверху от текстового окна или процентное
 ## отношение, например, 0.5 для центрирования.
-define gui.dialogue_xpos = 402
+define gui.dialogue_xpos = 300
 define gui.dialogue_ypos = 75
 
 ## Максимальная ширина текста диалога в пикселях.
