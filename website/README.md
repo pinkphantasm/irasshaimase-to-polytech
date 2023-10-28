@@ -1,75 +1,41 @@
-# Nuxt 3 Minimal Starter
+# Website
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-## Setup
+### Installation
 
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+```
+$ yarn
 ```
 
-## Development Server
+### Local Development
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+```
+$ yarn start
 ```
 
-## Production
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-Build the application for production:
+### Build
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
+```
+$ yarn build
 ```
 
-Locally preview production build:
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-```bash
-# npm
-npm run preview
+### Deployment
 
-# pnpm
-pnpm run preview
+Using SSH:
 
-# yarn
-yarn preview
-
-# bun
-bun run preview
+```
+$ USE_SSH=true yarn deploy
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
