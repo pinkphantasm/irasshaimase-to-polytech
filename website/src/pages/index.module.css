@@ -1,13 +1,100 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
     padding: 4rem 0;
+    min-height: 100vh;
     text-align: center;
     position: relative;
     overflow: hidden;
+    margin-bottom: 32px;
+}
+
+.heroBannerLogo {
+    border-radius: 16px;
+    margin-bottom: 24px;
+    -webkit-box-shadow: 1px 3px 10px 3px rgba(0, 0, 0, 0.6);
+    box-shadow: 1px 3px 10px 3px rgba(0, 0, 0, 0.6);
+}
+
+.intro {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 16px;
+    padding-inline: 16px;
+    border-bottom: 5px solid var(--ifm-color-primary);
+}
+
+.beautifulLocations {
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 16px;
+    padding-inline: 16px;
+    border-bottom: 5px solid var(--ifm-color-primary);
+}
+
+.beautifulLocations > blockquote {
+    width: 30%;
+}
+
+.introCharacter {
+    height: 600px;
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: center;
+    justify-content: center;
+}
+
+.backgroundImageGroup {
+    position: relative;
+    width: 30%;
+}
+
+.backgroundImageGroup > img {
+    transition: all 0.2s ease-in;
+    position: absolute;
+    width: 300px;
+}
+
+.backgroundImageGroup > img:nth-child(1) {
+    left: -12px;
+    top: -96px;
+    transform: rotate(-25deg);
+}
+
+.backgroundImageGroup > img:nth-child(1):hover {
+    z-index: 2;
+    transform: scale(1.05) rotate(-25deg);
+}
+
+.backgroundImageGroup > img:nth-child(2) {
+    left: 0;
+    top: -48px;
+    transform: rotate(-5deg);
+}
+
+.backgroundImageGroup > img:nth-child(2):hover {
+    z-index: 2;
+    transform: scale(1.05) rotate(-5deg);
+}
+
+.backgroundImageGroup > img:nth-child(3) {
+    left: 12px;
+    top: 0;
+    transform: rotate(15deg);
+}
+
+.backgroundImageGroup > img:nth-child(3):hover {
+    z-index: 2;
+    transform: scale(1.05) rotate(15deg);
+}
+
+.button {
+    min-width: 190px;
 }
 
 @media screen and (max-width: 996px) {
@@ -16,9 +103,35 @@
     }
 }
 
-.buttons {
-    display: flex;
-    gap: 16px;
-    align-items: center;
-    justify-content: center;
+@media screen and (max-width: 744px) {
+    .introCharacter {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 574px) {
+    .intro {
+        flex-direction: column-reverse;
+    }
+
+    .beautifulLocations {
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: fit-content;
+        padding-bottom: 96px;
+    }
+
+    .beautifulLocations > blockquote {
+        width: 100%;
+    }
+
+    .backgroundImageGroup {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .backgroundImageGroup {
+        width: 70%;
+    }
 }
