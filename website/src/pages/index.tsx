@@ -22,7 +22,7 @@ function HomepageHeader() {
                     </Link>
                     <Link
                         className="button button--secondary button--lg"
-                        to="/docs/category/plot"
+                        to="/docs/plot"
                     >
                         📕 Plot
                     </Link>
