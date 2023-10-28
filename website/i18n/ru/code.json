@@ -278,5 +278,9 @@
     },
     "⭐ About": {
         "message": "⭐ О проекте"
+    },
+    "theme.common.editThisPage": {
+        "message": "Отредактировать эту страницу",
+        "description": "The link label to edit the current page"
     }
 }
