@@ -65,8 +65,8 @@ const config = {
             navbar: {
                 title: 'Irasshaimase to Politech',
                 logo: {
-                    alt: 'My Site Logo',
-                    src: 'img/logo.svg',
+                    alt: 'Irasshaimase to Politech',
+                    src: 'img/logo.png',
                 },
                 items: [
                     {
