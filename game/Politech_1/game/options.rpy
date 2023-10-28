@@ -111,7 +111,7 @@ define config.window = "auto"
 
 ## Переходы, используемые при показе и скрытии диалогового окна
 
-define config.window_show_transition = Dissolve(.2)
+define config.window_show_transition = Dissolve(.5)
 define config.window_hide_transition = Dissolve(.2)
 
 
