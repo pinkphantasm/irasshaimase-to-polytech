@@ -23,7 +23,7 @@ define gui.show_name = True
 
 ## Версия игры.
 
-define config.version = "2.0"
+define config.version = "0.1.0"
 
 
 ## Текст, помещённый в экран "Об игре". Поместите текст между тройными скобками.
@@ -37,7 +37,7 @@ define gui.about = _p("""Сделано Pink Phantasm
 ## постройке дистрибутивов. Оно должно содержать текст формата ASCII и не должно
 ## содержать пробелы, двоеточия и точки с запятой.
 
-define build.name = "Irasshaimase_Politech"
+define build.name = "Irasshaimase_Polytech"
 
 
 ## Звуки и музыка ##############################################################
@@ -144,7 +144,7 @@ default preferences.afm_time = 15
 ## Этот параметр обычно не должен изменяться, а если и изменился, должен быть
 ## текстовой строчкой, а не выражением.
 
-define config.save_directory = "Politech_1-1698479916"
+define config.save_directory = "Polytech_1-1698479916"
 
 
 ## Иконка ######################################################################
