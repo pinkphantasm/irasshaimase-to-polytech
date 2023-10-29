@@ -16,7 +16,7 @@ Scripts, as well as the sequence of event may differ from the actual game depend
 
 :::
 
-### Prologue
+## Prologue
 
 **Kogu Torute**: Hello, I'm the dean of this university, Kogu Torute. I heard that a student has picked three majors but can't decide on one. May I know your name?
 
