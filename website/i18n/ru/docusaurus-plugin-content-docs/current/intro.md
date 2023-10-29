@@ -9,3 +9,5 @@ sidebar_position: 1
 -   [Иван Шелепугин](https://github.com/shelepuginivan)
 -   [Никита Голубков](https://github.com/Nikilireous)
 -   [Даниил Величко](https://github.com/1maginat1on)
+
+![Команда Pink Phantasm](/img/team.png)

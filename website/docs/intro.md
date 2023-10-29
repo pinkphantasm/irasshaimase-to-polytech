@@ -9,3 +9,5 @@ This game is developed by Pink Phantasm team for the Polytechnic Challenge Festi
 -   [Ivan Shelepugin](https://github.com/shelepuginivan)
 -   [Nikita Golubkov](https://github.com/Nikilireous)
 -   [Daniil Velichko](https://github.com/1maginat1on)
+
+![Pink Phantasm Team](/img/team.png)
