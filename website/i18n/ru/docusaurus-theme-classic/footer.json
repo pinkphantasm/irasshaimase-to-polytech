@@ -13,7 +13,7 @@
     },
     "link.item.label.GitHub": {
         "message": "GitHub",
-        "description": "The label of footer link with label=GitHub linking to https://github.com/shelepuginivan/irasshaimase-to-politech"
+        "description": "The label of footer link with label=GitHub linking to https://github.com/shelepuginivan/irasshaimase-to-polytech"
     },
     "copyright": {
         "message": "Copyright © 2023 Розовый Фантазм, Inc. Сделано с помощью Docusaurus.",
@@ -25,6 +25,6 @@
     },
     "link.item.label.Installation": {
         "message": "Установка",
-        "description": "The label of footer link with label=Installation linking to /docs/category/installation"
+        "description": "The label of footer link with label=Installation linking to /docs/installation"
     }
 }
