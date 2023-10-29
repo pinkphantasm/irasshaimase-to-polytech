@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'Irasshaimase to Polytech',
-    tagline: '',
+    tagline: 'Прочувствуй Политех',
     favicon: 'img/favicon.ico',
 
     url: 'https://irasshaimase.shelepugin.ru',
