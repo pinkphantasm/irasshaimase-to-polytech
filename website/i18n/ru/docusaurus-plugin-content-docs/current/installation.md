@@ -18,7 +18,7 @@ sidebar_position: 2
 
 ## macOS
 
--   Download [`Irasshaimase_Polytech-0.1.0-mac.zip`](https://github.com/shelepuginivan/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-mac.zip)
+-   Скачайте файл [`Irasshaimase_Polytech-0.1.0-mac.zip`](https://github.com/shelepuginivan/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-mac.zip)
 -   Распакуйте архив
 -   Запустите приложение
 
