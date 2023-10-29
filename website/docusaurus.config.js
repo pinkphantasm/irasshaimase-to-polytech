@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Irasshaimase to Politech',
+    title: 'Irasshaimase to Polytech',
     tagline: '',
     favicon: 'img/favicon.ico',
 
@@ -14,7 +14,7 @@ const config = {
     baseUrl: '/',
 
     organizationName: 'Pink Phantasm',
-    projectName: 'irasshaimase-to-politech',
+    projectName: 'irasshaimase-to-polytech',
 
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
@@ -63,9 +63,9 @@ const config = {
             // Replace with your project's social card
             image: 'img/social-card.png',
             navbar: {
-                title: 'Irasshaimase to Politech',
+                title: 'Irasshaimase to Polytech',
                 logo: {
-                    alt: 'Irasshaimase to Politech',
+                    alt: 'Irasshaimase to Polytech',
                     src: 'img/logo.png',
                 },
                 items: [
@@ -80,7 +80,7 @@ const config = {
                         position: 'right',
                     },
                     {
-                        href: 'https://github.com/shelepuginivan/irasshaimase-to-politech',
+                        href: 'https://github.com/shelepuginivan/irasshaimase-to-polytech',
                         label: 'GitHub',
                         position: 'right',
                     },
@@ -107,7 +107,7 @@ const config = {
                         items: [
                             {
                                 label: 'GitHub',
-                                href: 'https://github.com/shelepuginivan/irasshaimase-to-politech',
+                                href: 'https://github.com/shelepuginivan/irasshaimase-to-polytech',
                             },
                         ],
                     },

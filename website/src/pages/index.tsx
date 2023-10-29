@@ -14,8 +14,8 @@ function HomepageHeader() {
             <div className="container">
                 <img
                     className={styles.heroBannerLogo}
-                    src="/img/irasshaimase-to-politech.png"
-                    alt="Irasshaimase to Politech"
+                    src="/img/irasshaimase-to-polytech.png"
+                    alt="Irasshaimase to Polytech"
                 />
                 <h1 className="hero__title">{siteConfig.title}</h1>
                 <p className="hero__subtitle">{siteConfig.tagline}</p>
@@ -64,7 +64,7 @@ function Intro(): JSX.Element {
             <blockquote>
                 <h2>
                     <Translate>
-                        Get to know the wonderful world of Politech!
+                        Get to know the wonderful world of Polytech!
                     </Translate>
                 </h2>
                 <p>
@@ -102,11 +102,10 @@ function BeautifulLocations(): JSX.Element {
 }
 
 export default function Home(): JSX.Element {
-    const { siteConfig } = useDocusaurusContext()
     return (
         <Layout
-            title={`Hello from ${siteConfig.title}`}
-            description="Description will go into a meta tag in <head />"
+            title="Home"
+            description="Irasshaimase to Polytech - a visual novel about Peter the Great St. Petersburg Polytechnic University"
         >
             <HomepageHeader />
             <main>

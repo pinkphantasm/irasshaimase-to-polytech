@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Irasshaimase to Politech
+# Irasshaimase to Polytech
 
 Эта игра разработана для фестиваля "Вызов Политехника", направления "Хакатон" командой Pink Phantasm:
 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Irasshaimase to Politech
+# Irasshaimase to Polytech
 
 This game is developed by Pink Phantasm team for the Polytechnic Challenge Festival hackathon:
 
