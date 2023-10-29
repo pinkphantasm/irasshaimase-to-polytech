@@ -23,6 +23,14 @@
     border-bottom: 5px solid var(--ifm-color-primary);
 }
 
+.basedOnTrueEvents {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 32px 16px;
+    border-bottom: 5px solid var(--ifm-color-primary);
+}
+
 .beautifulLocations {
     min-height: 600px;
     display: flex;
@@ -39,6 +47,10 @@
 
 .introCharacter {
     height: 600px;
+}
+
+.memories {
+    width: 40%;
 }
 
 .buttons {
@@ -107,6 +119,15 @@
     .introCharacter {
         height: 400px;
     }
+
+    .basedOnTrueEvents {
+        flex-direction: column;
+        gap: 32px;
+    }
+
+    .memories {
+        width: 60%;
+    }
 }
 
 @media screen and (max-width: 574px) {
@@ -133,5 +154,9 @@
 @media screen and (max-width: 425px) {
     .backgroundImageGroup {
         width: 70%;
+    }
+
+    .memories {
+        width: 80%;
     }
 }

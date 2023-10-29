@@ -101,6 +101,22 @@ function BeautifulLocations(): JSX.Element {
     )
 }
 
+function BasedOnTrueEvents() {
+    return (
+        <section className={styles.basedOnTrueEvents}>
+            <img
+                className={styles.memories}
+                src="/img/memories.png"
+                alt="Based on true events"
+            />
+            <blockquote>
+                <h3>Основано на реальных событиях</h3>
+                <p>История одного студента...</p>
+            </blockquote>
+        </section>
+    )
+}
+
 export default function Home(): JSX.Element {
     return (
         <Layout
@@ -111,6 +127,7 @@ export default function Home(): JSX.Element {
             <main>
                 <Intro />
                 <BeautifulLocations />
+                <BasedOnTrueEvents />
             </main>
         </Layout>
     )
