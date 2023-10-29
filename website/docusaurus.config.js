@@ -10,7 +10,7 @@ const config = {
     tagline: '',
     favicon: 'img/favicon.ico',
 
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://irasshaimase.shelepugin.ru',
     baseUrl: '/',
 
     organizationName: 'Pink Phantasm',
