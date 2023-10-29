@@ -112,7 +112,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} Pink Phantasm, Inc. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} Pink Phantasm. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,
