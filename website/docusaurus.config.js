@@ -80,7 +80,7 @@ const config = {
                         position: 'right',
                     },
                     {
-                        href: 'https://github.com/shelepuginivan/irasshaimase-to-polytech',
+                        href: 'https://github.com/Nikilireous/irasshaimase-to-polytech',
                         label: 'GitHub',
                         position: 'right',
                     },
@@ -107,7 +107,7 @@ const config = {
                         items: [
                             {
                                 label: 'GitHub',
-                                href: 'https://github.com/shelepuginivan/irasshaimase-to-polytech',
+                                href: 'https://github.com/Nikilireous/irasshaimase-to-polytech',
                             },
                             {
                                 html: `
