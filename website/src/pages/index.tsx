@@ -110,8 +110,12 @@ function BasedOnTrueEvents() {
                 alt="Based on true events"
             />
             <blockquote>
-                <h3>Основано на реальных событиях</h3>
-                <p>История одного студента...</p>
+                <h2>
+                    <Translate>Based on true events</Translate>
+                </h2>
+                <p>
+                    <Translate>One student's story...</Translate>
+                </p>
             </blockquote>
         </section>
     )
