@@ -20,11 +20,11 @@ Scripts, as well as the sequence of event may differ from the actual game depend
 
 **Kogu Torute**: Hello, I'm the dean of this university, Kogu Torute. I heard that a student has picked three majors but can't decide on one. May I know your name?
 
-**Player**: Hello, my name is {player name}. I'd appreciate your assistance.
+**Player**: Hello, my name is \{player name\}. I'd appreciate your assistance.
 
 **Kogu Torute**: Since you had trouble choosing a major when you entered, you have decided to get help from several experts who are excellent in their respective branches. You can choose one of them. They will definitely help you.
 
-**Sugaki**: Hello, {player name}. My name is Sugaki, and I specialize in physics and mechanics.
+**Sugaki**: Hello, \{player name\}. My name is Sugaki, and I specialize in physics and mechanics.
 
 **Saiba**: I'm Saiba, a computer science and cybersecurity major.
 
@@ -98,7 +98,7 @@ _The player walks a few metres towards the main building and sees Saiba walking 
 
 ### A tour with Saiba
 
-**Saiba**: Hello, {player's name}! As you remember, my name is Saiba and I am a specialist in information science and cybersecurity.
+**Saiba**: Hello, \{player's name\}! As you remember, my name is Saiba and I am a specialist in information science and cybersecurity.
 
 **Player**: Aren't you too young to be a specialist?
 
