@@ -6,19 +6,19 @@ sidebar_position: 2
 
 ## Windows
 
--   Скачайте файл [`Irasshaimase_Polytech-0.1.0-pc.zip`](https://github.com/Nikilireous/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-pc.zip)
+-   Скачайте файл [`Irasshaimase_Polytech-0.1.0-pc.zip`](https://github.com/Pink-Phantasm/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-pc.zip)
 -   Распакуйте архив
 -   Запустите `Irasshaimase_Polytech.exe`
 
 ## Linux
 
--   Скачайте файл [`Irasshaimase_Polytech-0.1.0-pc.zip`](https://github.com/Nikilireous/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-pc.zip)
+-   Скачайте файл [`Irasshaimase_Polytech-0.1.0-pc.zip`](https://github.com/Pink-Phantasm/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-pc.zip)
 -   Распакуйте архив
 -   Запустите `Irasshaimase_Polytech.sh`
 
 ## macOS
 
--   Скачайте файл [`Irasshaimase_Polytech-0.1.0-mac.zip`](https://github.com/Nikilireous/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-mac.zip)
+-   Скачайте файл [`Irasshaimase_Polytech-0.1.0-mac.zip`](https://github.com/Pink-Phantasm/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-mac.zip)
 -   Распакуйте архив
 -   Запустите приложение
 

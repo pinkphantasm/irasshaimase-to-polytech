@@ -73,7 +73,7 @@ const config: Config = {
                     position: 'right',
                 },
                 {
-                    href: 'https://github.com/Nikilireous/irasshaimase-to-polytech',
+                    href: 'https://github.com/Pink-Phantasm/irasshaimase-to-polytech',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -100,7 +100,7 @@ const config: Config = {
                     items: [
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/Nikilireous/irasshaimase-to-polytech',
+                            href: 'https://github.com/Pink-Phantasm/irasshaimase-to-polytech',
                         },
                         {
                             html: `
