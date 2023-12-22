@@ -1,6 +1,7 @@
-import type { Config } from '@docusaurus/types'
+import type { Config, I18nConfig } from '@docusaurus/types'
 import type { Options, ThemeConfig } from '@docusaurus/preset-classic'
 import { themes as prismThemes } from 'prism-react-renderer'
+import { EnumChangefreq } from 'sitemap'
 
 const config: Config = {
     title: 'Irasshaimase to Polytech',
@@ -19,6 +20,7 @@ const config: Config = {
     i18n: {
         defaultLocale: 'ru',
         locales: ['en', 'ru'],
+        path: 'i18n',
         localeConfigs: {
             en: {
                 label: 'English',
@@ -28,7 +30,7 @@ const config: Config = {
                 label: 'Русский',
             },
         },
-    },
+    } satisfies I18nConfig,
 
     presets: [
         [
@@ -44,7 +46,7 @@ const config: Config = {
                     customCss: require.resolve('./src/css/custom.css'),
                 },
                 sitemap: {
-                    changefreq: 'weekly',
+                    changefreq: EnumChangefreq.WEEKLY,
                     priority: 0.5,
                     ignorePatterns: ['/tags/**'],
                     filename: 'sitemap.xml',
