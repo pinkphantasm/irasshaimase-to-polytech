@@ -105,6 +105,10 @@ const config: Config = {
                             href: 'https://github.com/Pink-Phantasm/irasshaimase-to-polytech',
                         },
                         {
+                            label: 'Pink Phantasm',
+                            href: 'https://github.com/Pink-Phantasm',
+                        },
+                        {
                             html: `
               <a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
                   <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" width="114" height="51" />
