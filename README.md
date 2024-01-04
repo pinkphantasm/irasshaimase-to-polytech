@@ -18,11 +18,7 @@
 
 ## About
 
-**Irasshaimase to Polytech** - a visual novel about [Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/). The game was developed for the hackathon of the Polytech Challenge festival by *Pink Phantasm* team:
-
--   [Ivan Shelepugin](https://github.com/shelepuginivan)
--   [Nikita Golubkov](https://github.com/Nikilireous)
--   [Daniil Velichko](https://github.com/1maginat1on)
+**Irasshaimase to Polytech** - a visual novel about [Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/). The game was developed for the hackathon of the Polytech Challenge festival by the [*Pink Phantasm*](https://github.com/Pink-Phantasm) team.
 
 ## Screenshots
 
