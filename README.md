@@ -9,8 +9,8 @@
 <a href="https://irasshaimase.shelepugin.ru/">
     <img src="https://api.netlify.com/api/v1/badges/421225fa-d74b-45ca-bb06-c5ef9aea101f/deploy-status" alt="Netlify Status">
 </a>
-<a href="https://github.com/Nikilireous/irasshaimase-to-polytech/releases">
-    <img src="https://img.shields.io/github/v/release/Nikilireous/irasshaimase-to-polytech" alt="GitHub Releases">
+<a href="https://github.com/Pink-Phantasm/irasshaimase-to-polytech/releases">
+    <img src="https://img.shields.io/github/v/release/Pink-Phantasm/irasshaimase-to-polytech" alt="GitHub Releases">
 </a>
 </div>
 
@@ -32,5 +32,5 @@
 
 ## Installation
 
-Pre-built packages for Windows, macOS, and Linux are found on the [Releases](https://github.com/Nikilireous/irasshaimase-to-polytech/releases) page as well as on the project [website](https://irasshaimase.shelepugin.ru/) on the [Installation](https://irasshaimase.shelepugin.ru/en/docs/installation/) page.
+Pre-built packages for Windows, macOS, and Linux are found on the [Releases](https://github.com/Pink-Phantasm/irasshaimase-to-polytech/releases) page as well as on the project [website](https://irasshaimase.shelepugin.ru/) on the [Installation](https://irasshaimase.shelepugin.ru/en/docs/installation/) page.
 
