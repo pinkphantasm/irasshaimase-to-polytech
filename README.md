@@ -16,17 +16,18 @@
 
 ---
 
-## About
+[English](https://github.com/Pink-Phantasm/irasshaimase-to-polytech/blob/main/readme-en.md)
 
-**Irasshaimase to Polytech** - a visual novel about [Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/). The game was developed for the hackathon of the Polytech Challenge festival by the [*Pink Phantasm*](https://github.com/Pink-Phantasm) team.
+## Об игре
 
-## Screenshots
+**Irasshaimase to Polytech** - визуальная новелла про [Санкт-Петербургский Политехнический Университет Петра Великого](https://www.spbstu.ru/). Игра разработана для хакатона в рамках фестиваля "Вызов Политехника" командой [*Pink Phantasm*](https://github.com/Pink-Phantasm).
+
+## Скриншоты
 
 ![Game screenshot 1](./assets/screenshots/1.png)
 ![Game screenshot 2](./assets/screenshots/2.png)
 ![Game screenshot 3](./assets/screenshots/3.png)
 
-## Installation
+## Установка
 
-Pre-built packages for Windows, macOS, and Linux are found on the [Releases](https://github.com/Pink-Phantasm/irasshaimase-to-polytech/releases) page as well as on the project [website](https://irasshaimase.shelepugin.ru/) on the [Installation](https://irasshaimase.shelepugin.ru/en/docs/installation/) page.
-
+Собранные пакеты для Windows, macOS и Linux можно найти на вкладке [Releases](https://github.com/Pink-Phantasm/irasshaimase-to-polytech/releases), а также на [сайте проекта](https://irasshaimase.shelepugin.ru) на странице [Установка](https://irasshaimase.shelepugin.ru/docs/installation/).
