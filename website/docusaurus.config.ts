@@ -11,7 +11,7 @@ const config: Config = {
     url: 'https://irasshaimase.shelepugin.ru',
     baseUrl: '/',
 
-    organizationName: 'Pink Phantasm',
+    organizationName: 'pinkphantasm',
     projectName: 'irasshaimase-to-polytech',
 
     onBrokenLinks: 'throw',
@@ -75,7 +75,7 @@ const config: Config = {
                     position: 'right',
                 },
                 {
-                    href: 'https://github.com/Pink-Phantasm/irasshaimase-to-polytech',
+                    href: 'https://github.com/pinkphantasm/irasshaimase-to-polytech',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -102,17 +102,11 @@ const config: Config = {
                     items: [
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/Pink-Phantasm/irasshaimase-to-polytech',
+                            href: 'https://github.com/pinkphantasm/irasshaimase-to-polytech',
                         },
                         {
                             label: 'Pink Phantasm',
-                            href: 'https://github.com/Pink-Phantasm',
-                        },
-                        {
-                            html: `
-              <a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
-                  <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" width="114" height="51" />
-              </a>`,
+                            href: 'https://github.com/pinkphantasm',
                         },
                     ],
                 },

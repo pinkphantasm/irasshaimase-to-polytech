@@ -6,19 +6,19 @@ sidebar_position: 2
 
 ## Windows
 
--   Download [`Irasshaimase_Polytech-0.1.0-pc.zip`](https://github.com/Pink-Phantasm/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-pc.zip)
+-   Download [`Irasshaimase_Polytech-0.1.0-pc.zip`](https://github.com/pinkphantasm/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-pc.zip)
 -   Extract the archive
 -   Run `Irasshaimase_Polytech.exe`
 
 ## Linux
 
--   Download [`Irasshaimase_Polytech-0.1.0-pc.zip`](https://github.com/Pink-Phantasm/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-pc.zip)
+-   Download [`Irasshaimase_Polytech-0.1.0-pc.zip`](https://github.com/pinkphantasm/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-pc.zip)
 -   Extract the archive
 -   Run `Irasshaimase_Polytech.sh`
 
 ## macOS
 
--   Download [`Irasshaimase_Polytech-0.1.0-mac.zip`](https://github.com/Pink-Phantasm/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-mac.zip)
+-   Download [`Irasshaimase_Polytech-0.1.0-mac.zip`](https://github.com/pinkphantasm/irasshaimase-to-polytech/releases/download/v0.1.0/Irasshaimase_Polytech-0.1.0-mac.zip)
 -   Extract the archive
 -   Launch the app
 
