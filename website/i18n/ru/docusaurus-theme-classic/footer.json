@@ -13,7 +13,7 @@
     },
     "link.item.label.GitHub": {
         "message": "GitHub",
-        "description": "The label of footer link with label=GitHub linking to https://github.com/Pink-Phantasm/irasshaimase-to-polytech"
+        "description": "The label of footer link with label=GitHub linking to https://github.com/pinkphantasm/irasshaimase-to-polytech"
     },
     "copyright": {
         "message": "Copyright © 2023 Pink Phantasm. Сделано с помощью Docusaurus.",
