@@ -8,7 +8,7 @@ const config: Config = {
     tagline: 'Прочувствуй Политех',
     favicon: 'img/favicon.ico',
 
-    url: 'https://irasshaimase.shelepugin.ru',
+    url: 'https://irasshaimase.pinkphantasm.ru',
     baseUrl: '/',
 
     organizationName: 'pinkphantasm',
