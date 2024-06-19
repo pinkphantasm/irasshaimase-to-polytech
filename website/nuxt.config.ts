@@ -6,4 +6,13 @@ export default defineNuxtConfig({
             routes.clear()
         },
     },
+    vite: {
+        css: {
+            preprocessorOptions: {
+                sass: {
+                    additionalData: '@use "~/assets/_colors.sass" as *\n',
+                },
+            },
+        },
+    },
 })
