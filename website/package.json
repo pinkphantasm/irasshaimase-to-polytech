@@ -1,17 +1,28 @@
 {
-  "name": "nuxt-app",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
-  },
-  "dependencies": {
-    "nuxt": "^3.12.2",
-    "vue": "^3.4.29",
-    "vue-router": "^4.3.3"
-  }
+    "name": "nuxt-app",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "format": "prettier . --write",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "nuxt prepare"
+    },
+    "dependencies": {
+        "nuxt": "^3.12.2",
+        "vue": "^3.4.29",
+        "vue-router": "^4.3.3"
+    },
+    "devDependencies": {
+        "prettier": "3.3.2"
+    },
+    "prettier": {
+        "singleQuote": true,
+        "tabWidth": 4,
+        "trailingComma": "all",
+        "useTabs": false,
+        "semi": false
+    }
 }

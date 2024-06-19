@@ -1,0 +1,7 @@
+**/.nuxt
+**/.output
+**/.dist
+**/.git
+**/.svn
+**/.hg
+**/node_modules
