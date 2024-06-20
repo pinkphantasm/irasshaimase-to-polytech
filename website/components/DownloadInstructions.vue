@@ -10,7 +10,7 @@ const downloadLinkPC = `${downloadPrefix}/${filenamePC}`
 
 <template>
     <Container>
-        <h1 class="heading">Установка</h1>
+        <MainHeading>Установка</MainHeading>
         <section class="section">
             <h2>Windows</h2>
             <ol class="instructions">
@@ -92,10 +92,6 @@ const downloadLinkPC = `${downloadPrefix}/${filenamePC}`
 </template>
 
 <style scoped lang="sass">
-.heading
-    width: fit-content
-    border-bottom: 2px solid $green-darker
-
 .section
     display: flex
     flex-direction: column
