@@ -24,5 +24,5 @@ export default defineNuxtConfig({
         },
     },
 
-    modules: ['@nuxt/fonts', '@nuxt/icon', '@nuxt/image'],
+    modules: ['@nuxt/content', '@nuxt/fonts', '@nuxt/icon', '@nuxt/image'],
 })
