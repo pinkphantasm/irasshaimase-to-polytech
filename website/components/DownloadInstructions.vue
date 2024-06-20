@@ -11,8 +11,7 @@ const downloadLinkPC = `${downloadPrefix}/${filenamePC}`
 <template>
     <Container>
         <MainHeading>Установка</MainHeading>
-        <section class="section">
-            <h2>Windows</h2>
+        <PageSection title="Windows">
             <ol class="instructions">
                 <li>
                     <span>Скачайте и распакуйте</span>{{ ' ' }}
@@ -27,9 +26,8 @@ const downloadLinkPC = `${downloadPrefix}/${filenamePC}`
                     <CodeInline>Irasshaimase_&#8203;Polytech.exe</CodeInline>.
                 </li>
             </ol>
-        </section>
-        <section class="section">
-            <h2>macOS</h2>
+        </PageSection>
+        <PageSection title="macOS">
             <ol class="instructions">
                 <li>
                     <span>Скачайте и распакуйте</span>{{ ' ' }}
@@ -41,9 +39,8 @@ const downloadLinkPC = `${downloadPrefix}/${filenamePC}`
                 </li>
                 <li>Запустите приложение.</li>
             </ol>
-        </section>
-        <section class="section">
-            <h2>Linux</h2>
+        </PageSection>
+        <PageSection title="Linux">
             <ol class="instructions">
                 <li>
                     <span>Скачайте и распакуйте</span>{{ ' ' }}
@@ -58,9 +55,8 @@ const downloadLinkPC = `${downloadPrefix}/${filenamePC}`
                     <CodeInline>Irasshaimase_&#8203;Polytech.sh</CodeInline>.
                 </li>
             </ol>
-        </section>
-        <section class="section">
-            <h2>Контрольные суммы</h2>
+        </PageSection>
+        <PageSection title="Контрольные суммы">
             <table class="checksums">
                 <thead>
                     <tr>
@@ -87,16 +83,11 @@ const downloadLinkPC = `${downloadPrefix}/${filenamePC}`
                     </tr>
                 </tbody>
             </table>
-        </section>
+        </PageSection>
     </Container>
 </template>
 
 <style scoped lang="sass">
-.section
-    display: flex
-    flex-direction: column
-    gap: 16px
-
 .instructions
     display: flex
     flex-direction: column
