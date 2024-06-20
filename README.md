@@ -30,4 +30,4 @@
 
 ## Установка
 
-Собранные пакеты для Windows, macOS и Linux можно найти на вкладке [Releases](https://github.com/pinkphantasm/irasshaimase-to-polytech/releases), а также на [сайте проекта](https://irasshaimase.pinkphantasm.ru) на странице [Установка](https://irasshaimase.pinkphantasm.ru/docs/installation/).
+Собранные пакеты для Windows, macOS и Linux можно найти на вкладке [Releases](https://github.com/pinkphantasm/irasshaimase-to-polytech/releases), а также на [сайте проекта](https://irasshaimase.pinkphantasm.ru) на странице [Установка](https://irasshaimase.pinkphantasm.ru/download).
