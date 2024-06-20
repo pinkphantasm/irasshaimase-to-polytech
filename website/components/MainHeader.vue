@@ -7,6 +7,7 @@ const menuIsOpen = ref(false)
         <div class="header-wrapper">
             <NuxtLink class="home-navigation" to="/">
                 <img
+                    class="logo"
                     src="/logo.png"
                     alt="Irasshaimase to Polytech"
                     width="32"
@@ -88,6 +89,9 @@ const menuIsOpen = ref(false)
     justify-content: space-between
     padding: 16px
     gap: 48px
+
+.logo
+    border-radius: 4px
 
 .home-navigation
     display: flex
