@@ -1,3 +1,8 @@
+const additionalData = `
+@use "~/assets/_colors.sass" as *
+@use "~/assets/_variables.sass" as *
+`
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
     css: ['~/assets/_global.sass'],
@@ -11,7 +16,7 @@ export default defineNuxtConfig({
         css: {
             preprocessorOptions: {
                 sass: {
-                    additionalData: '@use "~/assets/_colors.sass" as *\n',
+                    additionalData,
                 },
             },
         },
