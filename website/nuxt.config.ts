@@ -7,11 +7,13 @@ const additionalData = `
 export default defineNuxtConfig({
     css: ['~/assets/_global.sass'],
     devtools: { enabled: true },
+
     hooks: {
         'prerender:routes'({ routes }) {
             routes.clear()
         },
     },
+
     vite: {
         css: {
             preprocessorOptions: {
@@ -21,4 +23,6 @@ export default defineNuxtConfig({
             },
         },
     },
+
+    modules: ['@nuxt/image'],
 })
