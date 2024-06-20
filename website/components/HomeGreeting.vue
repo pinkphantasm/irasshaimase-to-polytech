@@ -55,7 +55,7 @@ const downloadLinkPC =
     display: flex
     flex-direction: column
     gap: 64px
-    height: calc(100vh - $header-height)
+    min-height: calc(100vh - $header-height)
     padding: $header-height 0
 
 .banner
