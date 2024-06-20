@@ -2,6 +2,7 @@
     <div class="wrapper">
         <MainHeader />
         <slot />
+        <MainFooter />
     </div>
 </template>
 
