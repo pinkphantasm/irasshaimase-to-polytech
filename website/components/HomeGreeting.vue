@@ -114,6 +114,10 @@ const downloadLinkPC =
     &:hover
         background-color: $green-darkest
 
+.download-options
+    text-align: center
+    padding: 0 8px
+
 .download-link
     transition: $transition
 
