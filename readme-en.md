@@ -30,5 +30,5 @@
 
 ## Installation
 
-Pre-built packages for Windows, macOS, and Linux are found on the [Releases](https://github.com/pinkphantasm/irasshaimase-to-polytech/releases) page as well as on the project [website](https://irasshaimase.pinkphantasm.ru/) on the [Installation](https://irasshaimase.pinkphantasm.ru/en/docs/installation/) page.
+Pre-built packages for Windows, macOS, and Linux are found on the [Releases](https://github.com/pinkphantasm/irasshaimase-to-polytech/releases) page as well as on the project [website](https://irasshaimase.pinkphantasm.ru/) on the [Installation](https://irasshaimase.pinkphantasm.ru/download) page.
 
