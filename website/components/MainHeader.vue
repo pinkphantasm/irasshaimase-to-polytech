@@ -19,7 +19,7 @@ const menuIsOpen = ref(false)
             <nav class="navigation">
                 <ul class="navigation-list">
                     <li class="navigation-list-item">
-                        <NuxtLink class="navigation-link" to="/install">
+                        <NuxtLink class="navigation-link" to="/download">
                             Скачать
                         </NuxtLink>
                     </li>
@@ -53,7 +53,7 @@ const menuIsOpen = ref(false)
             <h2>Навигация</h2>
             <ul class="menu-list">
                 <li class="menu-list-item">
-                    <NuxtLink class="navigation-link" to="/install">
+                    <NuxtLink class="navigation-link" to="/download">
                         Скачать
                     </NuxtLink>
                 </li>
