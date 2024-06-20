@@ -110,13 +110,9 @@ const downloadLinkPC =
     border-radius: 50vh
     background-color: $green
     text-decoration: none
-    font-size: smaller
 
     &:hover
         background-color: $green-darkest
-
-.download-options
-    font-size: x-small
 
 .download-link
     transition: $transition

@@ -93,10 +93,8 @@ const downloadLinkPC = `${downloadPrefix}/${filenamePC}`
     flex-direction: column
     gap: 8px
     padding-left: 32px
-    font-size: small
 
 .checksums
-    font-size: smaller
     border-collapse: collapse
 
     thead

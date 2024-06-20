@@ -5,6 +5,14 @@ const additionalData = `
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+    app: {
+        head: {
+            htmlAttrs: {
+                lang: 'ru',
+            },
+        },
+    },
+
     css: ['~/assets/_global.sass'],
     devtools: { enabled: true },
 

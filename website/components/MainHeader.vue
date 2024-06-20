@@ -100,7 +100,6 @@ const menuIsOpen = ref(false)
     text-decoration: none
 
 .home-navigation-text
-    font-size: small
     width: min-content
     font-family: Comfortaa, sans-serif
 

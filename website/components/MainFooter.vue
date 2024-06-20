@@ -11,5 +11,4 @@
     justify-content: center
     padding: 24px
     background: $background
-    font-size: small
 </style>
