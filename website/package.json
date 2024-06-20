@@ -11,6 +11,7 @@
         "postinstall": "nuxt prepare"
     },
     "dependencies": {
+        "@iconify-json/carbon": "^1.1.36",
         "@nuxt/fonts": "^0.7.0",
         "@nuxt/icon": "^1.0.0-rc.1",
         "@nuxt/image": "^1.7.0",
